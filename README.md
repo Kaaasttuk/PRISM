@@ -1,6 +1,6 @@
-# PRISM: Pre-screening Barcode Identification for Phenotype-Genotype Mapping
+# PRISM: Prescreening Rapid Identification of Single-cell Genotypes in Microfluidic Devices
 
-This repository contains the code and related files for the IIB Project in the Department of Engineering, University of Cambridge for the development of PRISM (Prescreening Rapid Identification of Single-cell Genotypes in Microfluidic Devices). This project aims to develop a workflow for multiplexed genotype experiments in the Mother Machine using a novel chemical barcoding method.
+This repository contains the code and related files for the IIB Project in the Department of Engineering, University of Cambridge. This project aims to develop a workflow for multiplexed genotype experiments in the Mother Machine using a novel chemical barcoding method, PRISM (Prescreening Rapid Identification of Single-cell Genotypes in Microfluidic Devices).
 
 ## Project Overview
 
