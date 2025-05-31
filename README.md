@@ -1,22 +1,14 @@
-├─growth_rate
-├─leakage_exp
-├─Omnipose_train
-├─PRISM_model
-├─PyMMM_main
-│  ├─.idea
-│  │  └─inspectionProfiles
-│  ├─converters
-│  └─Experiment
-│      └─__pycache__
-├─Synthetic_Data_Generation
-│  ├─.ipynb_checkpoints
-│  ├─Mother Cell For PRISM Train
-│  │  └─test_sets
-│  │      └─0000_test.zarr
-│  │          ├─bfp
-│  │          └─rfp
-│  └─__pycache__
-├─Synthetic_Fluorescent_Image
-└─Trench_Extraction
-
-
+.
+├── growth_rate/                     # Growth rate analysis scripts and outputs
+├── leakage_exp/                     # Leakage experiment data and processing
+├── Omnipose_train/                  # Omnipose segmentation training data and models
+├── PRISM_model/                     # Trained PRISM models and configurations
+├── PyMMM_main/                      # Core Mother Machine analysis package
+│   ├── .idea/                       # IDE settings (can be excluded from Git)
+│   │   └── inspectionProfiles/      # Code inspection configs
+│   ├── converters/                 # Scripts for format conversion
+│   └── Experiment/                 # Experiment handling module
+│       └── __pycache__/            # Python cache files (auto-generated)
+├── Synthetic_Data_Generation/      # Synthetic dataset generation tools
+├── Synthetic_Fluorescent_Image/    # Synthetic fluorescence image generator
+└── Trench_Extraction/              # Trench detection and extraction utilities
