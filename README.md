@@ -1,14 +1,14 @@
-
-├─ growth_rate/                  # data related to cell growth rate analysis
-├─ leakage_exp/                 # Experimental results or analysis of leakage experiments
-├─ Omnipose_train/             # Training data and models for Omnipose segmentation
-├─ PRISM_model/                # Trained models or configs from PRISM pipeline
-├─ PyMMM_main/                 # Main Python package (possibly for Mother Machine analysis)
-│  ├─ .idea/                   # Project settings for PyCharm/IDE (can be ignored)
-│  │  └─ inspectionProfiles/
-│  ├─ converters/              # Code for data format conversion
-│  └─ Experiment/             # Experiment processing module
-│      └─ __pycache__/         # Cached compiled Python files
-├─ Synthetic_Data_Generation/  # Scripts to generate synthetic microscopy datasets
-├─ Synthetic_Fluorescent_Image/ # Scripts or data for synthetic fluorescence image simulation
-└─ Trench_Extraction/          # Code for trench detection and extraction from images
+.
+├── growth_rate/                     # Growth rate analysis scripts and outputs
+├── leakage_exp/                     # Leakage experiment data and processing
+├── Omnipose_train/                  # Omnipose segmentation training data and models
+├── PRISM_model/                     # Trained PRISM models and configurations
+├── PyMMM_main/                      # Core Mother Machine analysis package
+│   ├── .idea/                       # IDE settings (can be excluded from Git)
+│   │   └── inspectionProfiles/      # Code inspection configs
+│   ├── converters/                 # Scripts for format conversion
+│   └── Experiment/                 # Experiment handling module
+│       └── __pycache__/            # Python cache files (auto-generated)
+├── Synthetic_Data_Generation/      # Synthetic dataset generation tools
+├── Synthetic_Fluorescent_Image/    # Synthetic fluorescence image generator
+└── Trench_Extraction/              # Trench detection and extraction utilities
