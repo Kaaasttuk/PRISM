@@ -1,6 +1,6 @@
 # PRISM: Pre-screening Barcode Identification for Phenotype-Genotype Mapping
 
-This repository contains the code and related files for the IIB Project on PRISM. This project aims to develop a workflow for high-throughput, time-resolved genotype-phenotype mapping in the Mother Machine using a novel chemical barcoding method.
+This repository contains the code and related files for the IIB Project in the Department of Engineering, University of Cambridge for the development of PRISM (Prescreening Rapid Identification of Single-cell Genotypes in Microfluidic Devices). This project aims to develop a workflow for multiplexed genotype experiments in the Mother Machine using a novel chemical barcoding method.
 
 ## Project Overview
 
